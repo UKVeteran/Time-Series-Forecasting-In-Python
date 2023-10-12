@@ -21,9 +21,5 @@
  - Ch 16: Filtering our time series with CNN
  - Ch 17: Using predictions to make more predictions
  - Ch 18: Capstone project - Forecasting the electric power consumption of a household 
-
- ### Next chapters to come in early access
  - Ch 19: Automating time series forecasting with Prophet
  - Ch 20: Capstone project - Forecasting the monthly average retail price of steak in Canada
-
- ### Chapters in development
