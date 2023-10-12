@@ -25,15 +25,18 @@
  - Ch 20: Capstone project - Forecasting the monthly average retail price of steak in Canada
 
 # First Capstone Project
-![1](https://github.com/UKVeteran/Time-Series-Forecasting-In-Python/assets/39216339/67ea49e2-5569-489b-85ab-c2141a57853f)
-
-![2](https://github.com/UKVeteran/Time-Series-Forecasting-In-Python/assets/39216339/c552f690-b1ed-440e-bd36-bf1d6192312f)
-
-
-![3](https://github.com/UKVeteran/Time-Series-Forecasting-In-Python/assets/39216339/61305111-75af-4678-8496-46c1cbf301b7)
-
-![4](https://github.com/UKVeteran/Time-Series-Forecasting-In-Python/assets/39216339/d42af4e2-7ab2-491c-ab29-de0d99d38ad1)
-
+<p align="center">
+<img  src="https://github.com/UKVeteran/Time-Series-Forecasting-In-Python/assets/39216339/67ea49e2-5569-489b-85ab-c2141a57853f" alt="">
+</p>
+<p align="center">
+<img  src="https://github.com/UKVeteran/Time-Series-Forecasting-In-Python/assets/39216339/c552f690-b1ed-440e-bd36-bf1d6192312f" alt="">
+</p>
+<p align="center">
+<img  src="https://github.com/UKVeteran/Time-Series-Forecasting-In-Python/assets/39216339/61305111-75af-4678-8496-46c1cbf301b7" alt="">
+</p>
+<p align="center">
+<img  src= "https://github.com/UKVeteran/Time-Series-Forecasting-In-Python/assets/39216339/d42af4e2-7ab2-491c-ab29-de0d99d38ad1" alt="">
+</p>
 # Second Capstone Project
 
 # Final Capstone Project 
