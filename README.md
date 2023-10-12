@@ -37,6 +37,7 @@
 <p align="center">
 <img  src= "https://github.com/UKVeteran/Time-Series-Forecasting-In-Python/assets/39216339/d42af4e2-7ab2-491c-ab29-de0d99d38ad1" alt="">
 </p>
+
 # Second Capstone Project
 
 # Final Capstone Project 
