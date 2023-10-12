@@ -1,6 +1,7 @@
 # Time Series Forecasting in Python
-![Cover of the book Time Series Forecasting in Python](https://freecontent.manning.com/wp-content/uploads/DOTD_NewMEAP_Peixeiro.png)
-
+<p align="center">
+<img  src="https://freecontent.manning.com/wp-content/uploads/DOTD_NewMEAP_Peixeiro.png" alt="">
+</p>
 # The Chapters
 
  - Ch 1: Understanding time series forecasting
