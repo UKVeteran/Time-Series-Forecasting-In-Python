@@ -23,3 +23,9 @@
  - Ch 18: Capstone project - Forecasting the electric power consumption of a household 
  - Ch 19: Automating time series forecasting with Prophet
  - Ch 20: Capstone project - Forecasting the monthly average retail price of steak in Canada
+
+# First Capstone Project
+
+# Second Capstone Project
+
+# Final Capstone Project 
